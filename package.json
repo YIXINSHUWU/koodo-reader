@@ -16,7 +16,7 @@
     "electron-is-dev": "^1.1.0",
     "i18next": "^19.4.4",
     "i18next-browser-languagedetector": "^4.2.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "md5": "^2.3.0",
     "react-dropzone": "^11.0.1",
     "react-i18next": "^9.0.10"
